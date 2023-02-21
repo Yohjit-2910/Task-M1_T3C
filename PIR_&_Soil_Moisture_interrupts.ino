@@ -1,3 +1,7 @@
+// Documentation
+// Name : Yohjit Chopra
+// Roll No. 2110994798
+
 int SensorPIR = 2;
 const int soilMoistureSensor = 3;
 bool curr_State = false;
